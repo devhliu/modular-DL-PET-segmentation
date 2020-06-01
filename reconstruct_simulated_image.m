@@ -1,4 +1,4 @@
-%%  Reconstruct simulated images 
+%%  Reconstruct simulated images
 
 % Kevin H. Leung
 % 12/16/2018
