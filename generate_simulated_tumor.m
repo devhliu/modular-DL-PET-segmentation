@@ -1,4 +1,4 @@
-%% Extract information about tumor size, shape, and intensity information from patient data 
+%% Extract information about tumor size, shape, and intensity information from patient data
 
 % Kevin H. Leung
 % 12/16/2018
