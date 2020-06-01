@@ -2,7 +2,7 @@
 A physics-guided modular deep-learning based automated framework for tumor segmentation in PET
 
 # Models 
-Model weights for the trained CNN in Module 2 and Module 3 are located in "models" folder. 
+Model weights Modules 2 and 3 are located in "models" folder. 
 
 For example, the model weights for Module 2 can be loaded into a keras model as follows: 
 
